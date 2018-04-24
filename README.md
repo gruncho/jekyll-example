@@ -29,7 +29,7 @@ Unsplash license ([read more](https://unsplash.com/license)).
 * [Paulius Dragunas](https://unsplash.com/photos/KqJKBwQGrTs)
 * [Ashim D’Silva](https://unsplash.com/photos/sKn-Yy4BRtY)
 
-### Photos
+### Fonts
 
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
 * [Arimo](https://fonts.google.com/specimen/Arimo)
