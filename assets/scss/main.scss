@@ -1,0 +1,32 @@
+---
+# SCSS files
+---
+
+// base
+
+@import "base/reset-tag";
+@import "base/reset-form";
+@import "base/common";
+
+// import
+
+@import "import/font";
+@import "import/picture-fill";
+
+// mixins
+
+@import "mixins/aspect-ratio";
+
+// layout
+
+@import "layout/header";
+@import "layout/footer";
+
+// components
+
+@import "components/section";
+@import "components/list-post";
+
+// view
+
+@import "view/page";
