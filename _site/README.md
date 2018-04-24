@@ -1,10 +1,8 @@
+![Capture 24/04/2018](/public/capture.png)
+
 # Jekyll sample
 
 My version of [Jekyll example ](https://github.com/mdo/jekyll-example), Sass enabled.
-
-![Capture 24/04/2018](/public/capture.png)
-
-___
 
 ## Revisar
 
@@ -31,7 +29,7 @@ Unsplash license ([read more](https://unsplash.com/license)).
 * [Paulius Dragunas](https://unsplash.com/photos/KqJKBwQGrTs)
 * [Ashim D’Silva](https://unsplash.com/photos/sKn-Yy4BRtY)
 
-### Fonts
+### Fonts
 
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
 * [Arimo](https://fonts.google.com/specimen/Arimo)
