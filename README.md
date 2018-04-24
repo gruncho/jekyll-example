@@ -1,10 +1,8 @@
+![Capture 24/04/2018](/public/capture.png)
+
 # Jekyll sample
 
 My version of [Jekyll example ](https://github.com/mdo/jekyll-example), Sass enabled.
-
-![Capture 24/04/2018](/public/capture.png)
-
-___
 
 ## Revisar
 
