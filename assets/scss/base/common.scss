@@ -19,8 +19,6 @@ html {
 }
 
 body {
-  @extend .transition_body;
-
   background-color: red; // revise .border-body
   color: $color-black;
   font-family: $font-family-second;
