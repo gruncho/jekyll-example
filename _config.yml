@@ -3,10 +3,9 @@
 title: jekyll example
 email: alex@worldx3.com
 description: Basic template for jekyll
-baseurl: "/jekyll-example" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/pqlco-stylesheet" # /pqlco-stylesheet
+url: "." # the base hostname & protocol for your site
 
-# Build settings
 markdown: kramdown
 exclude:
   - Gemfile
