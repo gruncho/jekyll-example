@@ -3,7 +3,7 @@
 title: jekyll example
 email: alex@worldx3.com
 description: Basic template for jekyll
-baseurl: "/jekyll-example" # /pqlco-stylesheet
+baseurl: "/jekyll-example" # /jekyll-example
 url: "." # the base hostname & protocol for your site
 
 markdown: kramdown
@@ -19,7 +19,7 @@ sass:
 
 # Gems
 
-gems:
+plugins:
   - jekyll-feed
 
 authors:
