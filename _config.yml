@@ -4,7 +4,7 @@ title: jekyll example
 email: alex@worldx3.com
 description: Basic template for jekyll
 baseurl: "" # /jekyll-example
-url: "http://gruncho.github.io/jekyll-example" # http://gruncho.github.io/jekyll-example
+url: "https://gruncho.github.io/jekyll-example" # https://gruncho.github.io/jekyll-example
 
 markdown: kramdown
 exclude:
