@@ -6,12 +6,12 @@
   <ul class="list-post__ul">
     {% for post in site.categories.blog %}
       <li class="list-post__li">
-        <a href="{{ post_url.url | prepend: site.baseurl }}" class="list-post__link">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="list-post__link">
           <picture class="picture list-post__picture">
-            <img src="{{ post_url.thumb }}">
+            <img src="{{ post.thumb }}">
           </picture>
         </a>
-        <a class="list-post__link list-post__content" href="{{ post_url.url | prepend: site.baseurl }}">
+        <a class="list-post__link list-post__content" href="{{ post.url | prepend: site.baseurl }}">
           <p class="list-post__date">
             {{ post.date | date: "%b %-d, %Y" }}
           </p>

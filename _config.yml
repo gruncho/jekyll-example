@@ -3,8 +3,8 @@
 title: jekyll example
 email: alex@worldx3.com
 description: Basic template for jekyll
-baseurl: "/jekyll-example" # /jekyll-example
-url: "." # the base hostname & protocol for your site
+baseurl: "" # /jekyll-example
+url: "hi" # the base hostname & protocol for your site
 
 markdown: kramdown
 exclude:
