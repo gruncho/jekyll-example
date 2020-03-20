@@ -8,7 +8,7 @@
       <li class="list-post__li">
         <a href="{{ post.url | prepend: site.baseurl }}" class="list-post__link">
           <picture class="picture list-post__picture">
-            <img src="{{ post.thumb }}">
+            <img src="{{ post.thumb | prepend: site.baseurl }}">
           </picture>
         </a>
         <a class="list-post__link list-post__content" href="{{ post.url | prepend: site.baseurl }}">
