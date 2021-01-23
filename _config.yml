@@ -3,8 +3,8 @@
 title: Erreza
 email: alex@worldx3.com
 description: Simple Jekyll theme
-baseurl: "/erreza" # /jekyllerreza
-url: "https://gruncho.github.iojerreza" # https://gruncho.github.io/erreza
+baseurl: "/erreza" # /erreza
+url: "https://gruncho.github.io/erreza" # https://gruncho.github.io/erreza
 
 markdown: kramdown
 exclude:
