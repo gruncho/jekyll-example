@@ -3,23 +3,23 @@
     {{ 'now' | date: "%Y" }} <span class="footer__cc">©</span> {{ site.title }}, by <a href="https://jano.cool">gruncho</a>
   </div>  
   <div class="footer__section footer__section--rrss">
-    <a href="http://twitter.com/gruncho" target="_blank" class="footer__rrss footer__rrss--twitter">
+    <a href="http://twitter.com/{{ site.twitter }}" target="_blank" class="footer__rrss footer__rrss--twitter">
       {% include svg/twitter.svg %}
       <span class="footer__rrss-span">Twitter</span>
     </a>
-    <a href="http://instagram.com/gruncho" target="_blank" class="footer__rrss footer__rrss--instagram">
+    <a href="http://instagram.com/{{ site.instagram }}" target="_blank" class="footer__rrss footer__rrss--instagram">
       {% include svg/instagram.svg %}
       <span class="footer__rrss-span">Instagram</span>
     </a>
-    <a href="http://telegram.me/gruntxo" target="_blank" class="footer__rrss footer__rrss--telegram">
+    <a href="http://telegram.me/{{ site.telegram }}" target="_blank" class="footer__rrss footer__rrss--telegram">
       {% include svg/telegram.svg %}
       <span class="footer__rrss-span">Telegram</span>
     </a>
-    <a href="http://dribbble.com/gruncho" target="_blank" class="footer__rrss footer__rrss--dribbble">
+    <a href="http://dribbble.com/{{ site.dribbble }}" target="_blank" class="footer__rrss footer__rrss--dribbble">
       {% include svg/dribbble.svg %}
       <span class="footer__rrss-span">Dribbbble</span>
     </a>
-    <a href="http://github.com/gruncho" target="_blank" class="footer__rrss footer__rrss--github">
+    <a href="http://github.com/{{ site.github }}" target="_blank" class="footer__rrss footer__rrss--github">
       {% include svg/github.svg %}
       <span class="footer__rrss-span">Github</span>
     </a>
